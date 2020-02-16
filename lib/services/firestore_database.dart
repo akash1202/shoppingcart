@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:shoppingcart/models/item.dart';
 import 'package:shoppingcart/models/order.dart';
-import'package:intl/intl.dart';
+import 'package:intl/intl.dart';
 import 'package:shoppingcart/models/user.dart';
 
 class FirebaseDatabaseIo {
